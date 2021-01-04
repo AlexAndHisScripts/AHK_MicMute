@@ -18,23 +18,6 @@
             "SoundFeedback": 1,
             "UnmuteHotkey": "~*RShift",
             "UpdateWithSystem": "1"
-        },
-        {
-            "afkTimeout": 0,
-            "ExcludeFullscreen": 0,
-            "LinkedApp": "firefox.exe",
-            "Microphone": "Microphone (AmazonBasics Desktop Mini Mic)",
-            "MuteHotkey": "~*RShift",
-            "OnscreenFeedback": 1,
-            "OSDPos": {
-                "x": "2322",
-                "y": "28"
-            },
-            "ProfileName": "Firefox",
-            "PushToTalk": 1,
-            "SoundFeedback": 1,
-            "UnmuteHotkey": "~*RShift",
-            "UpdateWithSystem": 1
         }
     ]
 }
